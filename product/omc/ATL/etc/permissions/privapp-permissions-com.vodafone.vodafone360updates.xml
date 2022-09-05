@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+
+  <privapp-permissions package="com.vodafone.vodafone360updates">
+	<permission name="android.permission.BATTERY_STATS"/>
+	<permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+	<permission name="android.permission.DELETE_PACKAGES"/> 
+	<permission name="android.permission.INSTALL_PACKAGES"/>
+	<permission name="android.permission.READ_LOGS"/>
+	<permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+  </privapp-permissions>
+
+</permissions>

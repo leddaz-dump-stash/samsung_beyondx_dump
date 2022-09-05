@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-G977B</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OVF</MultiCode>
+    <CustomerDataSet>
+        <CSCName>G977BOVF</CSCName>
+        <CSCVersion>CHVG4</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/ATL/customer.xml" />
+        <CustomerData src="/Customer/OMN/customer.xml" />
+        <CustomerData src="/Customer/VD2/customer.xml" />
+        <CustomerData src="/Customer/VOD/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATL</CustomerCode>
+            <Version>SAOMC_SM-G977B_OVF_ATL_12_0007</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="es.vodafone.mobile.mivodafone" />
+                <package name="es.vodafone.tvonline" />
+                <package name="au.com.vodafone.dreamlabapp" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>OMN</CustomerCode>
+            <Version>SAOMC_SM-G977B_OVF_OMN_12_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="it.vodafone.my190" />
+                <package name="au.com.vodafone.dreamlabapp" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VD2</CustomerCode>
+            <Version>SAOMC_SM-G977B_OVF_VD2_12_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.appseleration.android.selfcare" />
+                <package name="au.com.vodafone.dreamlabapp" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VOD</CustomerCode>
+            <Version>SAOMC_SM-G977B_OVF_VOD_12_0007</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.myvodafoneapp" />
+                <package name="au.com.vodafone.dreamlabapp" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

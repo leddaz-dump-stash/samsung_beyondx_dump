@@ -1,0 +1,2 @@
+/product/app/instagram_stub/instagram_stub.apk
+/product/priv-app/appcloud_oobe_samsungVodafone-release_V5.2.4.6/appcloud_oobe_samsungVodafone-release_V5.2.4.6.apk

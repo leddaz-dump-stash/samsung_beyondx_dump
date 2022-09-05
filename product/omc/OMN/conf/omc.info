@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-G977B_OVF_OMN_12_0007</version>
+  <model>
+    <name>SM-G977B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0002</customerEdition>
+    <carrierListVersion>120015</carrierListVersion>
+    <cscfeature>yes</cscfeature>
+    <carrierfeature>yes</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>2</carrierCount>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>10</mnc>
+      <networkName>vodafone IT</networkName>
+    </carrier>
+    <carrier>
+      <mcc>222</mcc>
+      <mnc>10</mnc>
+      <spn>ho.</spn>
+      <networkName>ho.</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
